@@ -20,3 +20,12 @@ spec:
   lifecycle: sandbox
   owner: team_a
   system: public-websites
+---
+kind: user
+metadata:
+  name:  david.holst
+spec:
+  profile:
+    displayName: David Holst
+
+
