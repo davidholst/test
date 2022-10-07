@@ -20,13 +20,6 @@ spec:
   lifecycle: sandbox
   owner: team_a
   system: public-websites
----
-apiVersion: backstage.io/v1alpha1
-kind: user
-metadata:
-  name:  david.holst
-spec:
-  profile:
-    displayName: David Holst
+
 
 
